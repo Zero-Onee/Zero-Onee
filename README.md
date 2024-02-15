@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **Docker, AWS**
 
-💬 Ask me about **Node.js, React, Firebase, MangoDB, Data Structure & Algorithms
+💬 Ask me about **Node.js, React, Firebase, MangoDB, Data Structure & Algorithms**
 
-⚡ Fun fact **I am a Cricketer **
+⚡ Fun fact **I am a Cricketer**
 
  </div>
  
